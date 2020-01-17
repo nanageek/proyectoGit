@@ -1,0 +1,152 @@
+body{
+    border: 8px solid yellow;
+    background-color: rgb(97, 15, 97);
+}
+
+header{
+    border: 4px solid gray;
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    color: turquoise;
+}
+
+nav{
+    border: 4px solid black;
+    background-color: turquoise;
+    text-align: center;
+     
+}
+
+a{
+    color: wheat;
+}
+
+.menu{
+    color: violet;
+    /*text-align: justify;
+    margin: 0 50px 0 100px;*/
+}
+
+.menu:hoover{
+    color: yellowgreen;
+}
+
+section{
+    border: 4px solid brown;
+    background-color: pink;
+}
+
+.seccion{
+    width: 58%;
+    float: left;
+}
+
+ul{
+
+}
+ol{
+
+}
+
+article{
+    border: 8px solid whitesmoke;
+    background-color: skyblue;
+}
+
+aside{
+    border: 1px solid black;
+    background-color: seagreen;
+    text-align: right;
+}
+
+.barralateral{
+    width: 40%;
+    padding: 5px;
+    float: right;
+}
+
+img{
+    border: 4px solid white;
+    margin: 5px 30px 5px 0px;
+    /* margin: 0 auto;
+    display: block; */
+}
+
+.imagen1{
+    float: left;
+}
+
+footer{
+    border: 4px solid white;
+    padding: 0px 20px 0px 20px;
+    background-color: palevioletred;
+    clear: both;
+}
+
+/* estilos de prueba */
+
+.parrafo{
+    border: 2px solid green;
+    margin: 50px;
+}
+
+iframe{
+    width: 420px;
+    height: 315px;
+    margin: 0 auto;
+    display: block;
+}
+
+video{
+    width: 420px;
+    height: 315px;
+    margin: 0 auto;
+    display: block;
+    float: left;
+}
+
+/* estilos de tablas en prueba */
+
+table,
+td,
+th{
+    border: 1px solid greenyellow;
+    font-size: 25px;
+    border-collapse: collapse;
+    border-style: hidden;
+}
+
+table{
+    background-color: hotpink;
+}
+
+th{
+    color: orange;
+    background-color: yellow;
+}
+
+table{
+    width: 50%;
+    margin: auto;
+}
+
+/*formularios*/
+
+
+
+input{
+    width: 450px;
+    margin: 20px;
+}
+
+label{
+    color: white;
+    margin: 20px;
+}
+
+button{
+    background-color: salmon;
+}
